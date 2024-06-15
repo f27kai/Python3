@@ -14,3 +14,8 @@
 # git add . / namefile --- файлды гитке жуктойт локалдуу
 # git commit -m "comment" --- файлды сохранить кылат
 # git push origin master / main --- проектини репезиторийге жүктөйт
+
+
+"""Delete file"""
+# git rm --cached namefile - жонокой файлдарды өчүрүү
+# git rm --cached -r namefile
