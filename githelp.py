@@ -4,6 +4,7 @@
 
 # git init - локалдуу турдо репезиторий ачат.
 # git remote add origin ссылка
+# .gitignore
 
 
 """
@@ -18,4 +19,4 @@
 
 """Delete file"""
 # git rm --cached namefile - жонокой файлдарды өчүрүү
-# git rm --cached -r namefile
+# git rm --cached -r namefile - папканы өчүрсөк
